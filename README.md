@@ -1,6 +1,26 @@
 # multiple_images
 
-A new Flutter application.
+A new Flutter application
+![m3](https://user-images.githubusercontent.com/16588377/72676806-535b2900-3abb-11ea-84b2-b07bc6badfb8.png)
+# Difficulty Level:
+Intermediate
+# Prerequisites:
+You must have basic knowledge of integrating firebase with flutter.
+# Packages used:
+# 1. Multiple Image Picker
+It is used to pick multiple images
+https://pub.dev/packages/multi_image_picker
+# 2. Carousel Pro
+It is used to display multiple images as slider widget
+https://pub.dev/packages/carousel_pro
+# 3. Cloud Firestore  
+It will be used to store URLs of images
+cloud_firestore | Flutter Package
+A Flutter plugin to use the Cloud Firestore API. For Flutter plugins for other Firebase products, see README.md. To use…pub.dev
+# 4. Firebase Storage
+It will be used to store image files
+firebase_storage | Flutter Package
+A Flutter plugin to use the Firebase Cloud Storage API. For Flutter plugins for other Firebase products, see README.md…pub.dev
 
 ## Getting Started
 
